@@ -176,3 +176,4 @@ function mouseup() {
         canvas.requestPointerLock();
     }
 }
+//good code for a first person game
